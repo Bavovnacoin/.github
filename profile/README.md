@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+This organization was created to facilitate the study of decentralized systems by developing a cryptocurrency. It was decided to call it ***Bavovnacoin***!
 <!--
 
 **Here are some ideas to get you started:**
